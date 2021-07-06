@@ -1,0 +1,24 @@
+{
+  "name": "@pardhanetwork/npm-bacon",
+  "version": "1.0.3",
+  "description": "The most tasty package ever, now for npm.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pardhanetwork/starter-packages.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bacon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
