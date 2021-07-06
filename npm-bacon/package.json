@@ -4,7 +4,7 @@
   "description": "The most tasty package ever, now for npm.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pardhanetwork/starter-packages.git"
+    "url": "git://github.com/pardhanetwork/POC_packages.git"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
