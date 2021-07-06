@@ -3,7 +3,7 @@ name: Publish npm package
 on:
   push: 
     branches:
-    - master
+    - poc_pkg
     paths:
     - 'npm-bacon/*'
     - '.github/workflows/publish.yml'
